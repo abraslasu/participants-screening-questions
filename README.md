@@ -1,3 +1,5 @@
+**Claude skill for generating screening questions for participants to be recruited in a research study.**
+
 A screener is the first methodological gate in your research process — get it wrong and you'll spend your session budget talking to the wrong people, generating findings that can't be acted on.
 
 Generate screening questionnaires for UX research participant recruitment, and/or define participant criteria from a research question. 
